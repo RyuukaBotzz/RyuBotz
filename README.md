@@ -69,6 +69,12 @@ Off in web nya
 - [`Ryuuka Bot 1`](https://chat.whatsapp.com/LtlEVtptLLBIGcvgS7kzmS)
 - [`Ryuuka Bot 2`](https://chat.whatsapp.com/KYFdPsjHKIr5ToVIqOAunE)
 
+<h3 align="center">Made by :</h3>
+<p align="center">
+  <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/ryuukateam"><img src="https://github.com/ryuukateam.png?size=128" height="128" width="128" /></a>
+</p>
+
 ## `THANKS TO`
 
 - Adiwajshing / Baileys
