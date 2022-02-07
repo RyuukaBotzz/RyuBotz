@@ -72,7 +72,7 @@ Off in web nya
 <h3 align="center">Made by :</h3>
 <p align="center">
   <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/ryuukateam"><img src="https://github.com/ryuukateam.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/FBOTZ-YT"><img src="https://github.com/FBOTZ-YT.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## `THANKS TO`
